@@ -1,2 +1,2 @@
 # foodwagon
-visit : automatic-steam.surge.sh
+visit : https://automatic-steam.surge.sh/
